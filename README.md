@@ -2,7 +2,7 @@
 
 ## AI Content Generation
 
-[![AutoComplete.sh Preview](https://i.imgur.com/ErTKYYV.png)](https://imgur.com/a/4vCa0E0)
+[![AutoComplete.sh Preview](https://i.imgur.com/d6a7M32.png)](https://imgur.com/a/4vCa0E0)
 
 ## Plugin Info
 Tags: autocomplete, AI writing, text generation, NLP, machine learning, AI
