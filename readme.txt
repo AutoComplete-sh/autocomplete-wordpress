@@ -72,5 +72,5 @@ For any other questions, feel free to leave us a message here or contact our sup
 
 == Changelog ==
 
-= 1.0 =
+= 0.1.0 =
 Initial release.
